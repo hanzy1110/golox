@@ -1,0 +1,2 @@
+
+fun lox(var) {return var and 0}
